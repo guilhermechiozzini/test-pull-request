@@ -1,5 +1,6 @@
 <?php
 
-	echo "teste-to pull request";
+	// correction to pull request
+	echo "pull request";
 
 ?>
