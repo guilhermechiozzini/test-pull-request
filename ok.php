@@ -1,6 +1,6 @@
 <?php
 
-	// correction to pull request
-	echo "pull request";
+	// new correction to pull request
+	echo "new pull request";
 
 ?>
